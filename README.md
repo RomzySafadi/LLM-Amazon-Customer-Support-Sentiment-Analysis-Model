@@ -1,0 +1,2 @@
+# LLM-Amazon-Customer-Support-Sentiment-Analysis-Model
+This repository will develop a sentiment analysis NLP model for Amazon customer support using RNN, CNN, and LLM. Advanced feature engineering and deep learning techniques will be used to analyze customer sentiments and improve support services. Data will be sourced from Kaggle, and model performance will be evaluated for real-world effectiveness.
